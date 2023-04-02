@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-22T17:58:42 EEST" name="Default suite" finished-at="2023-03-22T17:59:11 EEST" duration-ms="28561">
+    <groups>
+    </groups>
+    <test started-at="2023-03-22T17:58:42 EEST" name="Default test" finished-at="2023-03-22T17:59:11 EEST" duration-ms="28561">
+      <class name="reorderItems">
+        <test-method is-config="true" signature="web()[pri:0, instance:reorderItems@3f4f9acd]" started-at="2023-03-22T17:58:42 EEST" name="web" finished-at="2023-03-22T17:58:45 EEST" duration-ms="2668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- web -->
+        <test-method signature="reorder()[pri:0, instance:reorderItems@3f4f9acd]" started-at="2023-03-22T17:58:45 EEST" name="reorder" finished-at="2023-03-22T17:59:11 EEST" duration-ms="25873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reorder -->
+      </class> <!-- reorderItems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
